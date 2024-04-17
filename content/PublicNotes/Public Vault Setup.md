@@ -5,16 +5,15 @@ Aliases:
 tags:
   - Public
 ---
-
 ---
 
-To publish my vault I used [Quartz](https://quartz.jzhao.xyz/) and [GitHub Pages](https://pages.github.com/) with help of [Auto Note Mover Plugin](https://github.com/farux/obsidian-auto-note-mover)
+To publish my vault I used [Quartz](https://quartz.jzhao.xyz/) and [GitHub Pages](https://pages.github.com/) with help of [Auto Note Mover Plugin](https://github.com/farux/obsidian-auto-note-mover) to place all my notes tagged as `#Public` into matching folder. 
 
-I used a PowerShell script run via Windows Task Scheduler to mirror the contents of the `Public` folder in my vault to quartz `content` folder, instead of using the built-in ways to set files as private.
-
+I created a PowerShell script run via Windows Task Scheduler to mirror the contents of the `Public` folder in my vault to quartz `content` folder, instead of using the built-in ways to set files as private.
 
 ---
 ## Resources
+
 - [Quartz](https://quartz.jzhao.xyz/)
 - [GitHub Pages](https://pages.github.com/)
 - [Auto Note Mover Plugin](https://github.com/farux/obsidian-auto-note-mover)

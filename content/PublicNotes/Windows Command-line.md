@@ -37,3 +37,7 @@ Sometimes I find myself in the need to use cmd for something more complicated th
 ### Admin Privileges
 #### Activate Privileges from Open Cmd
 `runas /user:<adnim username> cmd`
+
+
+---
+[[Command Linne Interface]]
