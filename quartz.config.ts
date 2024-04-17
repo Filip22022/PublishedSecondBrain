@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 ",
+    pageTitle: "My Mind🪴",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -59,8 +59,8 @@ const config: QuartzConfig = {
       Plugin.Latex({ renderEngine: "katex" }),
       Plugin.SyntaxHighlighting({
         theme: {
-          light: "github-light",
-          dark: "github-dark",
+          light: "vitesse-light",
+          dark: "tokyo-night",
         },
         keepBackground: false,
       }),
