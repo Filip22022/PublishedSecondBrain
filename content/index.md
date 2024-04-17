@@ -1,5 +1,5 @@
 ---
-title: Welcome to my mind
+title: Welcome to My Mind
 ---
 
 This is a public part of my personal obsidian vault. I decided to publish it after getting to know the concept of [[Learning in Public]] as I wanted to give it a try.
