@@ -12,4 +12,4 @@ Here are some interesting things I have made notes about:
 
 
 ---
-[[How to set up a Public Obsidian Vault |Public Vault Setup]]
+[[Public Vault Setup |How to set up a Public Obsidian Vault]]
