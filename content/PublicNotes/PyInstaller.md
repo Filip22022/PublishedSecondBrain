@@ -28,7 +28,7 @@ https://pyinstaller.org/en/stable/
 ## Running from Code
 Running from python script involves using function __main__.run with the same arguments like command line
 
-```
+```python
 import PyInstaller.__main__
 
 PyInstaller.__main__.run([

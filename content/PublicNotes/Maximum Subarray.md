@@ -40,7 +40,7 @@ paraphrase: the task is finding the part of an integer array for which the sum i
 ### Approach 1 - Brute Force
 Looping through everything - awful
 
-```
+```java
 class Solution {
     public int maxSubArray(int[] nums) {
         int len = nums.length;
@@ -65,7 +65,7 @@ class Solution {
 
 ### Approach 2 - Iterate saving Biggest
 Assuming on all negative numbers I should return the negative number closest to zero
-```
+```java
 class Solution {
     public int maxSubArray(int[] nums) {
         int biggestSum = nums[0];

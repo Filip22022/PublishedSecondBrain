@@ -14,7 +14,7 @@ Despite the distinction found in some places, what is usually called SASS and SC
 SASS is the indented syntax, while SCSS uses standard CSS syntax with brackets and semicolons
 
 ### SASS example
-```
+```css
 $primary-color: #007bff 
 .btn 
 	background-color: 
@@ -22,7 +22,7 @@ $primary-color: #007bff
 	#fff padding: 10px 20px
 ```
 ### SCSS example
-```
+```scss
 $primary-color: #007bff;
 
 .btn {
@@ -36,7 +36,7 @@ $primary-color: #007bff;
 Sass and Less are two different preprocessors for CSS, and have some syntactic differences like variable declaration and mixins:
 
 - Sass
-	```
+	```scss
 	$primary-color: #007bff;
 
 	.button {  
@@ -48,7 +48,7 @@ Sass and Less are two different preprocessors for CSS, and have some syntactic d
 	}	
 	```
 - Less
-	```
+	```less
 	@primary-color: #007bff;
 
 	.button {  

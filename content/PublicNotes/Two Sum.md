@@ -45,7 +45,7 @@ Nested loop through the array checking for the target sum, excluding situation o
 Complexity: O(n^2)
 
 #### Code
-```
+```java
 class Solution {
     public int[] twoSum(int[] nums, int target) {
         int n = nums.length;
@@ -73,7 +73,7 @@ Complexity O(n * log(n)) - O(n^2) quicksort complexity, finding the sum O(n)
 After finding the correct indices in the sorted array, looping over the original array to restore the indices, maybe would be faster to create a hash map first anyway
 
 #### Code
-```
+```java
 class Solution {
     public int[] twoSum(int[] nums, int target) {
         int[] sortedNums = Arrays.copyOf(nums, nums.length);
@@ -123,7 +123,7 @@ Using [[Hash Table]]
 2. For each number in the array check if it's complement exists as a key in hash map, and return its index (map value)
 3. Remember to check if they have the same index
 
-```
+```java
 class Solution {
     public int[] twoSum(int[] nums, int target) {
         Map<Integer, Integer> numMap = new HashMap<>();
@@ -152,7 +152,7 @@ Optimization of the hash table approach
 
 - Instead of initializing the whole hash table, initialize the elements as you iterate through original array
 - the first of the solution pair will be initialized into hash table, and the second will find it as it's complement
-```
+```java
 class Solution {
     public int[] twoSum(int[] nums, int target) {
         Map<Integer, Integer> numMap = new HashMap<>();

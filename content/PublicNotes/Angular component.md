@@ -27,9 +27,9 @@ This command will by default create the following:
 ### Options
 
 
-## Component structure
+## Component Structure
 
-```
+```typescript
 @Component({
   selector: 'some-componenet',
   templatUrl: `./some-component.component.html`
@@ -39,7 +39,7 @@ This command will by default create the following:
 export class SomeComponent {
 ```
 
-### CSS selector
+### CSS Selector
 A selector is the name of the corresponding html tag, for example the component above would be instantiated by `<some-component>`
 
 ### Template

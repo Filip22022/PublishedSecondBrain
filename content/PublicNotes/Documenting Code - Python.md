@@ -16,7 +16,7 @@ My personal preference is starting with a space and capital letter without perio
 ### Type Hinting
 In line with the idea of self-documenting code, you can include type hints in python to make it clear what input or output is expected.
 
-```
+```python
 def hello_name(name: str) -> str:
     return(f"Hello {name}")
 ```
@@ -24,7 +24,7 @@ def hello_name(name: str) -> str:
 ### Docstrings
 Accessed by `help()` function, set by creating a multiline comment `""" x """` directly under the declaration of documented object.
 
-```
+```python
 def say_hello(name):
     """A simple function that says hello"""
     return(f"Hello {name}")
@@ -38,7 +38,7 @@ def say_hello(name):
 - """
 - blank line
 
-```
+```python
 """ Short sumary
 
 Elaboration of the description
@@ -100,7 +100,7 @@ Should contain enough information for a user to be able to use the script. Shoul
 ## Formats
 
 ### Epytext
-```
+```python
 """
 This is a javadoc style.
 
@@ -113,7 +113,7 @@ This is a javadoc style.
 
 ### reStructuredText (Sphinx)
 Default PyCharm docstring
-```
+```python
 """
 This is a reST style.
 
@@ -124,7 +124,7 @@ This is a reST style.
 """
 ```
 ### Google
-```
+```python
 """
 This is an example of Google style.
 
@@ -141,7 +141,7 @@ Raises:
 ```
 
 ### Numpydoc
-```
+```python
 
 """
 My numpydoc description of a kind

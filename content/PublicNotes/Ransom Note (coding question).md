@@ -40,7 +40,7 @@ with optimization beats 50%
 Time Complexity: O(nk)
 Space Complexity: O(1)
 
-```
+```java
 class Solution {
     public boolean canConstruct(String ransomNote, String magazine) {
         int start = 'a';
@@ -86,7 +86,7 @@ Time Complexity: O(n)
 Space Complexity: O(k)
 
 
-```
+```java
 class Solution {
     public boolean canConstruct(String ransomNote, String magazine) {
         HashMap<Character, Integer> letters = new HashMap<Character, Integer>();

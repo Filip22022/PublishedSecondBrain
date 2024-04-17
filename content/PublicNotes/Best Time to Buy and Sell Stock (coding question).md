@@ -43,7 +43,7 @@ paraphrase: I'm given an array of stock prices on each day, and have to find the
 ### Approach 1 - Brute Force
 For each number, iterate through the rest of the array and save the values if the profit is greater than currentBest
 time - O(n^2), space O(1)
-```
+```java
 class Solution {
     public int maxProfit(int[] prices) {
         int len = prices.length;
@@ -68,7 +68,7 @@ Then check the difference at each point to the biggest to right value and save t
 
 Time complexity: O(n)
 Space complexity: O(n)
-```
+```java
 class Solution {
     public int maxProfit(int[] prices) {
         int len = prices.length;
@@ -100,7 +100,7 @@ If we iterate from the left, and check for the lowest value and biggest profit s
 
 Time complexity: O(n) 
 Space complexity: O(1)
-```
+```java
 class Solution {
     public int maxProfit(int[] prices) {
         int minValue = Integer.MAX_VALUE;

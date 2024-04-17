@@ -31,7 +31,7 @@ Nodes can be added to groups, which can then be managed as a whole. This is usef
 To add node to group you can use the 'Node>Groups' tab in the editor or use `add_to_group(name: String)` function from code. Similarly `remove_from_group(name: String)` will remove the node it's called on from the group `name` 
 
 To invoke an action on all members of a group we can use the following code:
-```
+```gdscript
 func foo():
 	get_tree().call_group("x", "do_y")
 ```
@@ -42,7 +42,7 @@ The `owner` is a node property pointing to the scene's root node. It can be conv
 ### Example
 When having multiple buttons in a scene we can use the owner property to quickly connect them to the root script
 
-```
+```gdscript
 func _ready():
 	presssed.connect(owner._on_button_pressed)
 ```

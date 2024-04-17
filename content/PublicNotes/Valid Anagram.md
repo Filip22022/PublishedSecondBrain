@@ -41,7 +41,7 @@ paraphrase: Check if string t consists of exactly the same set of letters as str
 
 ### Approach 1 - counting in HashMap
 
-```
+```java
 class Solution {
     public boolean isAnagram(String s, String t) {
         HashMap<Character, Integer> letters = new HashMap<Character, Integer>();
@@ -82,7 +82,7 @@ A relatively slower solution, but with good O complexity
 
 ### Approach 2 - sort and compare
 
-```
+```java
 class Solution {
     public boolean isAnagram(String s, String t) {
         char[] t1 = t.toCharArray();
@@ -106,7 +106,7 @@ Faster in given testcases, but with more complexity
 
 ### Approach 3 - counting in integers
 
-```
+```java
 class Solution {
     public boolean isAnagram(String s, String t) {
         if (s.length() != t.length()) return false;

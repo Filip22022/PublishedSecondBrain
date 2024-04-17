@@ -41,7 +41,7 @@ paraphrase: Determine if provided string is a palindrome, taking into account on
 ## Solving
 
 ### Approach 1 - Remove Non-alphanumeric , Two Pointers
-```
+```java
 class Solution {
     public boolean isPalindrome(String s) {
         char[] alphanumeric = s.toCharArray();
@@ -74,7 +74,7 @@ Space Complexity: O(n)
 
 ### Approach 2 - Skip Non Alphanumeric, Two Pointers
 
-```
+```java
 class Solution {
     public boolean isPalindrome(String s) {
         char[] c = s.toCharArray();

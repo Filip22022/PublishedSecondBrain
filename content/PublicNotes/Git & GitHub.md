@@ -34,7 +34,7 @@ Git commands I forget too often
 `git switch -c <new-branch>`
 
 #### Get All Changes from Another Branch
-```
+```bash
 git checkout clean_branch
 git merge --squash changed_branch
 ```
