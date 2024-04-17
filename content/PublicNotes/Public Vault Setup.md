@@ -11,6 +11,8 @@ To publish my vault I used [Quartz](https://quartz.jzhao.xyz/) and [GitHub Pages
 
 I created a PowerShell script run via Windows Task Scheduler to mirror the contents of the `Public` folder in my vault to quartz `content` folder, instead of using the built-in ways to set files as private.
 
+All the information needed to complete the setup without the file copying are available in [this tutorial](https://notes.nicolevanderhoeven.com/How+to+publish+Obsidian+notes+with+Quartz+on+GitHub+Pages)
+
 ---
 ## Resources
 
