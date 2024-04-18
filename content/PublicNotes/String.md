@@ -1,6 +1,7 @@
 ---
 title: String
-Tags: Public
+Tags: 
+  - Public
 Aliases:
 Date created: 2024-02-19 18:38
 ---
