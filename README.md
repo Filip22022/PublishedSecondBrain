@@ -1,4 +1,11 @@
-# Quartz v4
+# My Mind
+This repository is a source for the website hosting the public part of my Obsidian vault.
+
+You can access it at https://filip22022.github.io/My-Mind/
+
+# Original Project
+
+## Quartz v4
 
 > “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
 
@@ -9,7 +16,7 @@ Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility 
 
 [Join the Discord Community](https://discord.gg/cRFFHYye7t)
 
-## Sponsors
+### Sponsors
 
 <p align="center">
   <a href="https://github.com/sponsors/jackyzha0">

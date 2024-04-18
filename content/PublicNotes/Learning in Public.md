@@ -48,6 +48,7 @@ https://www.swyx.io/learn-in-public
 - https://nicolevanderhoeven.com/
 - https://zhenye-na.github.io/blog/
 - https://garden.gilbertsanchez.com/
+- https://quartz.jzhao.xyz/showcase
 
 ---
 ## Resources

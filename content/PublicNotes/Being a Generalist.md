@@ -1,6 +1,7 @@
 ---
 title: Being a Generalist
-Tags: Public
+Tags: 
+- Public
 Aliases:
 Date created: 2024-04-03 14:05
 ---

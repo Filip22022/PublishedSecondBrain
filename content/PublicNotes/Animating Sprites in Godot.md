@@ -1,6 +1,7 @@
 ---
 title: Animating Sprites in Godot
-Tags: Public
+Tags: 
+  - Public
 Aliases:
 Date created: 2024-03-21 19:37
 ---
