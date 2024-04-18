@@ -5,8 +5,6 @@ Aliases: Hash Map
 Date created: 2024-02-13 18:55
 ---
 
-# Hash Table
-
 A hash table is an [[Associative Array]] data structure, meant for storing key-value pairs in a manner that allows quick lookup. It's principle is creating an array of values where the objects are input at locations determined by a hash function.
 
 ### Elements of a Hash Table

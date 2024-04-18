@@ -6,8 +6,6 @@ Aliases:
 Date created: 2024-04-03 14:05
 ---
 
-# Being a Generalist
-
 ### Inspiration
 [How to Manage Multiple Interests - Odysseas](https://www.youtube.com/watch?v=-AdXIC44b7Q&t=599s)
 
