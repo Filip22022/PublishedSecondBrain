@@ -1,6 +1,6 @@
 ---
 title: How to Write Better
-Tags:  Public
+tags:  Public
 Aliases:
 Date created: 2023-12-07 12:12
 ---

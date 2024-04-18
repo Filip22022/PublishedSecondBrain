@@ -1,6 +1,6 @@
 ---
 title: Consumer Credt
-Tags: Public
+tags: Public
 Aliases:
 Date created: 2023-09-14 11:28
 ---

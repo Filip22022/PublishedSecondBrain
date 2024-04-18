@@ -1,6 +1,6 @@
 ---
 title: Array
-Tags: 
+tags: 
  - Public
 Aliases:
 Date created: 2024-02-11 15:20

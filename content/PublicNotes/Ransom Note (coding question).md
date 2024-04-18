@@ -1,6 +1,6 @@
 ---
 title: Ransom Note
-Tags: Public
+tags: Public
 Aliases:
 Date created: 2024-02-18 11:44
 ---

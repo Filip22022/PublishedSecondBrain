@@ -1,6 +1,6 @@
 ---
 title: Dnd House Rules
-Tags: Public
+tags: Public
 Aliases:
 Date created: 2023-08-18 17:38
 ---

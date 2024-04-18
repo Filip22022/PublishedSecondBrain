@@ -1,6 +1,6 @@
 ---
 title: Sorting an Array
-Tags: Public
+tags: Public
 Aliases:
 Date created: 2024-02-13 17:44
 ---

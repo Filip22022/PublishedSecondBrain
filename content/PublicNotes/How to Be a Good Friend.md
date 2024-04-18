@@ -1,6 +1,6 @@
 ---
 title: How to Be a Good Friend
-Tags: Public
+tags: Public
 Aliases:
 Date created: 2023-08-14 20:19
 ---

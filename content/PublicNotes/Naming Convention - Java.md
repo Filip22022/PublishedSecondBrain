@@ -1,6 +1,6 @@
 ---
 title: Naming Convention - Java
-Tags:  Public
+tags:  Public
 Aliases: Naming Convention
 Date created: 2024-02-19 16:57
 ---

@@ -1,6 +1,6 @@
 ---
 title: Naming Convention - Python
-Tags: Public
+tags: Public
 Aliases: Naming Convention 
 Date created: 2024-03-01 09:05
 ---

@@ -1,6 +1,6 @@
 ---
 title: KISS Principle
-Tags: Public
+tags: Public
 Aliases:
 Date created: 2023-06-27 00:03
 ---

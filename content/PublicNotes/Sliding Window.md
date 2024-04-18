@@ -1,6 +1,6 @@
 ---
 title: Sliding Window
-Tags: Public
+tags: Public
 Aliases:
 Date created: 2024-02-12 21:34
 ---

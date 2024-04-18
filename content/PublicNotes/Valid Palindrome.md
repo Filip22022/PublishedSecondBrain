@@ -1,6 +1,6 @@
 ---
 title: Valid Palindrome
-Tags: Public
+tags: Public
 Aliases:
 Date created: 2024-02-22 10:35
 ---

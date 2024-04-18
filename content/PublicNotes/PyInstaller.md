@@ -1,6 +1,6 @@
 ---
 title: PyInstaller
-Tags: Public
+tags: Public
 Aliases:
 Date created: 2024-03-06 15:31
 ---

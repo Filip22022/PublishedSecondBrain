@@ -1,6 +1,6 @@
 ---
 title: Composition in Godot
-Tags: Public 
+tags: Public 
 Aliases:
 Date created: 2024-03-20 14:00
 ---

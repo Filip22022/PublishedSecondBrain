@@ -1,6 +1,6 @@
 ---
 title: Ship30 Guide to Digital Writing
-Tags: Public
+tags: Public
 Aliases:
 Date created: 2023-11-12 21:51
 ---

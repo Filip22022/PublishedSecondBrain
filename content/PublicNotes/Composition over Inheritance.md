@@ -1,6 +1,6 @@
 ---
 title: Composition over Inheritance
-Tags: Public
+tags: Public
 Aliases:
 Date created: 2023-06-26 18:57
 ---

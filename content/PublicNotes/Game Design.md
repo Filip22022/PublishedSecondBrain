@@ -1,6 +1,6 @@
 ---
 title: Game Design
-Tags: Public
+tags: Public
 Aliases:
 Date created: 2024-03-15 10:53
 ---

@@ -1,6 +1,6 @@
 ---
 title: Traversing from the right
-Tags: Public
+tags: Public
 Aliases:
 Date created: 2024-02-13 17:43
 ---

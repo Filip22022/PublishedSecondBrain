@@ -1,6 +1,6 @@
 ---
 title: Information Circulation in Godot Projects
-Tags: Public
+tags: Public
 Aliases:
 Date created: 2024-03-25 13:14
 ---

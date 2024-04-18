@@ -1,6 +1,6 @@
 ---
 title: State Pattern
-Tags: Public
+tags: Public
 Aliases:
 Date created: 2024-03-22 10:10
 ---

@@ -1,6 +1,6 @@
 ---
 title: First Principles
-Tags: Public
+tags: Public
 Aliases:
 Date created: 2024-03-18 09:43
 ---

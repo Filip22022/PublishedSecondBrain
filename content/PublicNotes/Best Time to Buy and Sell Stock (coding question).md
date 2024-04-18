@@ -1,6 +1,6 @@
 ---
 title: Best Time to Buy and Sell Stock (coding question)
-Tags: Public
+tags: Public
 Aliases:
 Date created: 2024-02-15 20:30
 ---

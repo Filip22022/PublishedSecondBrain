@@ -1,6 +1,6 @@
 ---
 title: Introduction to Personal Finance
-Tags: Public
+tags: Public
 ---
 
 [[Teaching Thursday]] week 1 research 

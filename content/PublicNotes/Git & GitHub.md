@@ -1,6 +1,6 @@
 ---
 title: Git & GitHub
-Tags: Public
+tags: Public
 Aliases:
 Date created: 2024-03-01 21:25
 ---

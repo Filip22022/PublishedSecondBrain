@@ -1,6 +1,6 @@
 ---
 title: Pillars of Object Oriented Programming
-Tags:  Public
+tags:  Public
 Aliases: Abstraction, Encapsulation, Inheritance, Polymorphism
 Date created: 2023-06-26 17:59
 ---

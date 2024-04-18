@@ -1,6 +1,6 @@
 ---
 title: Book List
-Tags: MapOfContent, Public
+tags: MapOfContent, Public
 Aliases:
 Date created: 2023-07-10 09:04
 ---

@@ -1,6 +1,6 @@
 ---
 title: Obsidian Syntax
-Tags: Public
+tags: Public
 Aliases:
 Date created: 2024-02-10 14:55
 ---

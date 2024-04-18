@@ -1,6 +1,6 @@
 ---
 title: Valid Anagram
-Tags: Public
+tags: Public
 Aliases:
 Date created: 2024-02-19 19:52
 ---

@@ -1,6 +1,6 @@
 ---
 title: Technology and Software
-Tags: MapOfContent, Public
+tags: MapOfContent, Public
 Aliases:
 Date created: 2023-06-26 19:19
 ---

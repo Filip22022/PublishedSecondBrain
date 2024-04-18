@@ -1,6 +1,6 @@
 ---
 title: TTRPG
-Tags: MapOfContent, Public
+tags: MapOfContent, Public
 Aliases:
 Date created: 2023-08-27 13:21
 ---

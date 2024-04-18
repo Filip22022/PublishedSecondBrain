@@ -1,6 +1,6 @@
 ---
 title: SOLID Principles
-Tags: Public
+tags: Public
 Aliases:
 Date created: 2023-06-26 19:19
 ---

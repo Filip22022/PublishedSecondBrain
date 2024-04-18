@@ -1,6 +1,6 @@
 ---
 title: Fermi Estimate
-Tags: Public
+tags: Public
 Aliases: Fermi Solution, Fermi Problem
 Date created: 2024-03-15 12:37
 ---

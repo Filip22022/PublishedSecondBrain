@@ -1,6 +1,6 @@
 ---
 title: Coding Interview Process
-Tags: Public
+tags: Public
 Aliases:
 Date created: 2024-02-11 13:53
 ---

@@ -1,6 +1,6 @@
 ---
 title: Dnd Usable Treasure
-Tags: Public
+tags: Public
 Aliases:
 Date created: 2023-08-18 22:49
 ---
