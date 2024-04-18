@@ -1,6 +1,7 @@
 ---
 title: Hash Table
-Tags: Public
+Tags: 
+  - Public
 Aliases: Hash Map
 Date created: 2024-02-13 18:55
 ---
