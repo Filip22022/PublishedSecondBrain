@@ -51,3 +51,14 @@ For multiline direct template use backticks
 Similarly to templates styles can be declared by referencing an external file or directly within the component.
 
 `styleUrls` property will link a css file to the component, while `styles` property will accept an array of strings that contain css rules
+
+## Style Guidelines
+
+- Give components an _element_ selector instead of _attribute_ or _class_ selectors
+	- element selector:  `'some-button'` - html: `<some-button></some-button>`
+	- attribute selector: `'[some-button]'` - html: `<div some-button></div>`
+- Extracts styles and templates to separate files if over 3 lines
+- Use `@Input` and `@Output` decorators
+- Order members with properties -> methods, and public -> private, alphabetized
+- Limit logic in components to that required for the view and delegate the rest to [[Angular service|services]]
+- Provide initial value for inputs or mark as optional with `?`

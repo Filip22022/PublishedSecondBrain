@@ -36,3 +36,7 @@ Running the app locally on provided server
 [[Angular cli Commands]]
 [[ng generate]]
 [[Angular Naming Convention]]
+[[Angular File Structure]]
+[[LIFT Principle]]
+[[Angular Shared Modules]]
+[[Angular component]]
