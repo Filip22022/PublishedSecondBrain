@@ -40,3 +40,5 @@ Running the app locally on provided server
 [[LIFT Principle]]
 [[Angular Shared Modules]]
 [[Angular component]]
+[[Angular service]]
+[[Dependency Injection in Angular]]

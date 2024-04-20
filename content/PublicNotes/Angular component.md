@@ -8,6 +8,8 @@ tags:
 
 Component is a basic UI building blocs in Angular applications. They consist of html templates, TypeScript logic and CSS styling. 
 
+Components are responsible for the presentation and data binding
+
 To be available to another component or application, component must belong to an `NgModule` - listed in the `declarations` field of `NgModule` metadata
 
 ## Generating a New Component

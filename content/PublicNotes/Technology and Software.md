@@ -23,14 +23,14 @@ Date created: 2023-06-26 19:19
 
 ### Patterns
 [[State Pattern]]
-
-[[Pillars of Object Oriented Programming]] 
-[[Data Structures]]
-
 ### Best Practices
 [[Commenting and Documenting Code]]
 
 
+
+[[Pillars of Object Oriented Programming]] 
+[[Data Structures]]
+[[Dependency Injection]]
 ## Programming Languages
 ### Java
 [[Naming Convention - Java|Naming Convention]] 
