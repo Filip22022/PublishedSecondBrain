@@ -4,8 +4,6 @@ Aliases:
 Date created: 2024-02-10 21:55
 ---
 
-# Motivation
-
 ## My Ideas
 
 ### Remember My Goals
@@ -48,3 +46,6 @@ Look at the first 50% in a "how much I did" fashion, and at the remaining 50% in
 ---
 ## Thoughts
 - Always try to take two steps forward one step back, not the other way around. Change is not a linear process
+
+---
+[[Implementation is Better than Motivation]]
