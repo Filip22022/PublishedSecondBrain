@@ -38,16 +38,19 @@ Date created: 2023-06-26 19:19
 ### Python
 [[Naming Convention - Python|Naming Convention]]
 [[PyInstaller]]
+[[Type Hints in Python]]
 
 ## Web Development
 [[Static vs Dynamic Websites]]
 [[Angular]]
+[[React vs Vue]]
 [[SASS vs LESS]]
 
 ## Gamedev
 [[Game Design]]
 [[Game Ideas]]
 [[Godot]]
+[[Game Color Palette]]
 
 ## Networks
 [[Port Forwarding]]

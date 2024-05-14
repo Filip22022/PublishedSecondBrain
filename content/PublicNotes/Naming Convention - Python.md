@@ -11,7 +11,7 @@ Date created: 2024-03-01 09:05
 
 | Structure | Case                           | Example                 |     |
 | :-------: | ------------------------------ | ----------------------- | --- |
-|   Class   | UpperCamelCase                 | My Class, Class         |     |
+|   Class   | UpperCamelCase                 | MyClass, Class          |     |
 | Function  | lowercase, underscores         | function, my_function   |     |
 |  Method   | lowercase, underscores         | _non_public, method     |     |
 | Variable  | lowercase , underscores        | var, my_var             |     |

@@ -9,9 +9,23 @@ Godot is a free gamedev engine popular mainly in the indie development scene for
 
 ---
 
+
+## General
+[[2D Lightning in Godot]]
+[[Groups in Godot]]
+[[Animating Sprites in Godot]]
+[[Renaming nodes in Godot]]
+## Best Practices
 [[Composition in Godot]]
 [[Information Circulation in Godot Projects]]
-
+## Tips
+[[How to Detect Entering Area in Godot]]
 [[Setting Property as Required in Godot]]
-[[Animating Sprites in Godot]]
+[[Fixing Blurry Pixel Art in Godot]]
+## Gdscript
+[[Lambda Functions in Gdscript]]
+[[Call Deferred in Gdscript]]
+[[Gdscript Naming Convention]]
+[[Gdscript Suggested File Format]]
 
+---

@@ -20,5 +20,10 @@ September 2023 - [[Personal Finance]]
 	Week 1 - [[Introduction to Personal Finance]] 
 	Week 2 - [[Introduction to Budgeting|Budgeting]] , Retirement Planning, Investing
 	Week 3 - [[Consumer Credit]]
+
+December 2023
 	Presentation 4 - [[Improving Sleep]]
 	Presentation 5 - [[Prioritisation]]
+
+Other 
+	[[Taxes in Poland]]
