@@ -20,7 +20,6 @@ Date created: 2023-06-26 19:19
 [[DRY Principle]]
 [[YAGNI Principle]]
 [[Composition over Inheritance]]
-
 ### Patterns
 [[State Pattern]]
 ### Best Practices
@@ -30,6 +29,8 @@ Date created: 2023-06-26 19:19
 
 [[Pillars of Object Oriented Programming]] 
 [[Data Structures]]
+[[Algorithms]]
+[[Recursion]]
 [[Dependency Injection]]
 ## Programming Languages
 ### Java

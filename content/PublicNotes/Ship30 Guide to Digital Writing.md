@@ -115,7 +115,7 @@ Fast revelation rate provides new information with every chunk of text.
 
 
 ## Content Differentiation
-You  shouldn't write the same things that have been already written, instead you should differentiate your content to stand out.
+You shouldn't write the same things that have been already written, instead you should differentiate your content to stand out.
 
 Three categories of differentiation:
 - Voice 

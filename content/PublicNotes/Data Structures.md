@@ -11,3 +11,5 @@ Data structures are ways of organising data on a computer for easy access and mo
 [[Array]]
 [[String]]
 [[Hash Table]]
+[[Matrix]]
+[[Linked List]]

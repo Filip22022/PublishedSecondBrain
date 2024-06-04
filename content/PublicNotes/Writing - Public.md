@@ -12,3 +12,5 @@ tags:
 
 ### Notes
 [[Building a Writing Habit]] 
+[[Worldbuilding]]
+[[Writing Exercises]]
