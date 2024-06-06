@@ -15,3 +15,10 @@ Data structures are ways of organising data on a computer for easy access and mo
 [[Linked List]]
 [[Queue]]
 [[Stack]]
+[[Tree]]
+
+## Linear Vs Non-linear
+
+Linear data structures are ones like arrays or linked lists, where the data is ordered and traversing the structure is sequential also follows the order one way or another.
+
+Non-linear data structures on the other hand don't have to be arranged in any particular order and can be traversed non-sequentially
