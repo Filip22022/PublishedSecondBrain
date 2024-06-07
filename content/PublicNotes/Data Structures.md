@@ -16,6 +16,7 @@ Data structures are ways of organising data on a computer for easy access and mo
 [[Queue]]
 [[Stack]]
 [[Tree]]
+[[Binary Tree]]
 
 ## Linear Vs Non-linear
 
