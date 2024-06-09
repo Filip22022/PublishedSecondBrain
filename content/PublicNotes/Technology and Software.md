@@ -20,8 +20,10 @@ Date created: 2023-06-26 19:19
 [[DRY Principle]]
 [[YAGNI Principle]]
 [[Composition over Inheritance]]
+[[Programming Paradigm]]
 ### Patterns
 [[State Pattern]]
+[[Observable]]
 ### Best Practices
 [[Commenting and Documenting Code]]
 
@@ -31,8 +33,8 @@ Date created: 2023-06-26 19:19
 [[Data Structures]]
 [[Algorithms]]
 [[Recursion]]
+[[Asynchronous Programming]]
 [[Dependency Injection]]
-[[Reactive Programming]]
 ## Programming Languages
 ### Java
 [[Naming Convention - Java|Naming Convention]] 
