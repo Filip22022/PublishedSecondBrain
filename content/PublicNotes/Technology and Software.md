@@ -47,6 +47,7 @@ Date created: 2023-06-26 19:19
 ## Web Development
 [[Static vs Dynamic Websites]]
 [[Angular]]
+[[Vue.js]]
 [[React vs Vue]]
 [[SASS vs LESS]]
 
