@@ -38,11 +38,11 @@ Best webnovels and serials
 - Martial Arts Master
 - Ave Xia Rem Y
 - Rise of the Living Forge
-- Tomb Raider King
 
 ### Dropped
 - Commerce Emperor
 - Dungeon Devotee - hiatus
+- Tomb Raider King - Annoying Characters
 
 ## Articles
 

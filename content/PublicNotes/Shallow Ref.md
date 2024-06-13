@@ -6,6 +6,6 @@ tags:
   - Public
 ---
 
-Shallow version of a [[Ref Object]] in which the value is not deeply reactive. The values is stored and exposed as-is and only `.value` access is reactive.
+Shallow version of a [[Vue Ref Object]] in which the value is not deeply reactive. The values is stored and exposed as-is and only `.value` access is reactive.
 
 Typically used for performance optimizations when observing a large data-structure is costly

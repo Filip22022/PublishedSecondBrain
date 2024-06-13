@@ -1,5 +1,5 @@
 ---
-title: Ref Object
+title: Vue Ref Object
 Date created: 2024-06-11 12:56
 Aliases:
 tags: 
@@ -8,6 +8,7 @@ tags:
 
 Ref Objects are wrappers for values in [[Vue.js]] that track the changes to a variable to make it reactive
 
+see also [[Vue Template Refs]]
 ## Declaring a Reactive State
 Declaring is done using the `ref()` function which wraps the argument within a ref object with a `.value` property
 ```js

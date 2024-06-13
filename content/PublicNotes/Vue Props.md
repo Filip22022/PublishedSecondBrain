@@ -1,10 +1,10 @@
 ---
-title: Setting Property as Required in Godot
-tags: Public
-Aliases: 
-Date created: 2024-03-25 21:33
+title: Vue Props
+Date created: 2024-06-12 12:15
+Aliases:
+tags: 
+  - Public
 ---
-## Props
 
 Props are custom attributes registered on a component by declaring it in the list of props a component accepts:
 
@@ -51,16 +51,3 @@ const posts = ref([
   :title="post.title"
  />
 ```
-
-
-As of now (25/3/2024) there's no way to make a property required in a strict sense.
-
-A workaround has been proposed to set a configuration warning:
-```gdscript
-func _get_configuration_warning() -> String:
-    if some_exported_value == 0:
-        return "some_exported_value needs a value different than 0."
-
-    return ""
-```
-But I haven't had much luck with it myself.

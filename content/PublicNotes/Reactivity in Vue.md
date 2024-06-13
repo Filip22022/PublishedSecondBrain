@@ -10,7 +10,7 @@ tags:
 
 To achieve [[Reactive Programming|reactivity]] Vue uses a dependency tracking system. When a component is rendered Vue tracks `ref`s that were used during the render, when one of them is mutated  it will trigger a re-render.
 
-Because there's no way to detect access or mutation of plain variables in JavaScript, [[Ref Object|Ref Objects]] are used to intercept get and set operations and track used values or trigger changes to the DOM.
+Because there's no way to detect access or mutation of plain variables in JavaScript, [[Vue Ref Object|Ref Objects]] are used to intercept get and set operations and track used values or trigger changes to the DOM.
 
 Refs can also be passed into functions, while retaining access to the latest value and reactivity connection.
 

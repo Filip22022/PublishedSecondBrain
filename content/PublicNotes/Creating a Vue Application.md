@@ -18,6 +18,8 @@ npm create vue@latest
 ```
 and chose appropriate options when prompted.
 
+This will create an application structure, for more details see [[Vue Scaffolding Structure]]
+
 then install the dependencies and start the dev server with
 ```
 cd <your-project-name>

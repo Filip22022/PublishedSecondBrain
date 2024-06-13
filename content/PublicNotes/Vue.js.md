@@ -8,10 +8,10 @@ tags:
 
 Vue.js is a component-based declarative framework for building user interfaces built on top of HTML, CSS nad JavaScript.
 
-### Single-File Components
+### [[Single-File Components]]
 Most vue projects use components built with HTML-like files called Single-File Components (SFC) with the `*.vue` extension. Those files encapsulate components logic, template, and styles in one file, and they are a defining feature of the framework
 
-### API options
+### API Options
 Vue components can use one of two API styles: Options API and Composition API. 
 
 Options API is centred around a "component instance", abstracting away the reactivity details and enforcing more organisation via option groups. 
@@ -24,5 +24,10 @@ On the [Vue.js website](https://vuejs.org/guide/) the authors recommend going wi
 
 [[Creating a Vue Application]]
 [[Vue Template Syntax]]
+[[Vue Useful Commands]]
+
 [[Reactivity in Vue]]
+[[Vue Components]]
 [[Single-File Components]]
+
+[[Vue Template Refs]]
