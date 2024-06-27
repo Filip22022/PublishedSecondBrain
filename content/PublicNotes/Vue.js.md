@@ -22,12 +22,26 @@ On the [Vue.js website](https://vuejs.org/guide/) the authors recommend going wi
 ## Notes
 [Official Docs](https://vuejs.org/guide/)
 
+>Using composition API and `<script setup>` in the notes
+### Guides
 [[Creating a Vue Application]]
 [[Vue Template Syntax]]
 [[Vue Useful Commands]]
+[[Vue Naming Guide]]
+[[Defining App Color Variables in Vue]]
+#### CSS
+[[Scoping CSS to a Component in Vue]]
+[[Creating a Global Stylesheet in Vue]]
+[[Binding html Classes in Vue]]
+[[Binding Inline Styles in Vue]] 
 
+### General
 [[Reactivity in Vue]]
 [[Vue Components]]
 [[Single-File Components]]
-
 [[Vue Template Refs]]
+[[Vue Props]]
+[[Vue Events]]
+[[Vue Slots]]
+[[Vue Directives]]
+[[Vue Router]]

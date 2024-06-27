@@ -129,11 +129,13 @@ One line
 
 
 Multiline
-\```
+\```<language>
 x
 x
 \```
 ```
+[List of supported languages](https://prismjs.com/#supported-languages)
+
 ### Images
 `![title](imaeURL)`
 `![title|heigthxwidth](imaeURL)`

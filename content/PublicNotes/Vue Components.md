@@ -53,9 +53,8 @@ To pass content to a component in the following fashion:
   Something bad happened.
 </AlertBox>
 ```
+
 use Vue's `<slot>` element:
-
-
 ```vue
 <!-- AlertBox.vue -->
 <template>
@@ -74,6 +73,7 @@ use Vue's `<slot>` element:
 
 `<slot />` is a placeholder where the content will be inserted
 
+see also [[Vue Slots]]
 ## Dynamic Component
 To dynamically switch between components, for example in a tabbed interface, use `<component>` element with `is` attribute
 ```vue

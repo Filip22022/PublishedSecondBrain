@@ -12,4 +12,4 @@ Used for creating back-end services and api's
 
 ## Node Package Manager
 
-Npm is a software registry and [[Command Linne Interface]], used to share packages, manage dependencies and versions.
+Npm is a software registry and [[Command Line Interface]], used to share packages, manage dependencies and versions.

@@ -51,7 +51,7 @@ if the attribute has identical name to the bound JavaScript value, it can be sho
 ```html
 <button :disabled="isButtonDisabled">Button</button>
 ```
-The attribute will only be included if the bound value is [[Truthy Values|thruthy]] or is an empty string.
+The attribute will only be included if the bound value is [[Truthy and Falsy Values|thruthy]] or is an empty string.
 
 ### Multiple Attributes
 Multiple attributes can be bound using one directive without an argument:

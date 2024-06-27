@@ -40,4 +40,4 @@ Sometimes I find myself in the need to use cmd for something more complicated th
 
 
 ---
-[[Command Linne Interface]]
+[[Command Line Interface]]

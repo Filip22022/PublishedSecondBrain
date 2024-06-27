@@ -11,6 +11,7 @@ Date created: 2023-06-26 19:19
 [[Git & GitHub]]
 [[Windows Command-line]]
 [[Node.js]]
+[[MySql Server]]
 
 ## Software Development
 
@@ -24,6 +25,7 @@ Date created: 2023-06-26 19:19
 ### Patterns
 [[State Pattern]]
 [[Observable]]
+[[Data Transfer Object]]
 ### Best Practices
 [[Commenting and Documenting Code]]
 
@@ -38,11 +40,17 @@ Date created: 2023-06-26 19:19
 ## Programming Languages
 ### Java
 [[Naming Convention - Java|Naming Convention]] 
+[[Spring & SpringBoot]]
 
 ### Python
 [[Naming Convention - Python|Naming Convention]]
 [[PyInstaller]]
 [[Type Hints in Python]]
+
+### JavaScript
+[[Truthy and Falsy Values]]
+[[JavaScript Expression]]
+[[JS && Operator]]
 
 ## Web Development
 [[Static vs Dynamic Websites]]
@@ -50,6 +58,7 @@ Date created: 2023-06-26 19:19
 [[Vue.js]]
 [[React vs Vue]]
 [[SASS vs LESS]]
+[[RESTful API]]
 
 ## Gamedev
 [[Game Design]]
