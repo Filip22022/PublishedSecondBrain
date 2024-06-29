@@ -11,7 +11,7 @@ Date created: 2023-06-26 19:19
 [[Git & GitHub]]
 [[Windows Command-line]]
 [[Node.js]]
-[[MySql Server]]
+[[MySql]]
 
 ## Software Development
 
